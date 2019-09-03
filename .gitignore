@@ -1,0 +1,26 @@
+# R / Rstudio files
+.Rhistory
+*.Rproj
+.Rproj.user
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter notebook
+.ipynb_checkpoints/
+.ipynb
+
+# VS Code
+.vscode/
+
+# Remove large file
+data/neolid.csv
+data/google_analytics_bupaR.RDS
+logs/events.*
+
+# Other
+.idea/
+*.h5
+*.exe
+data/
