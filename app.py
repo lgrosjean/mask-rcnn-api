@@ -52,3 +52,4 @@ if __name__=="__main__":
   threading.Timer(1., lambda: webbrowser.open(url) ).start()
 
   app.run(port=port, debug=False)
+  # app.run()
